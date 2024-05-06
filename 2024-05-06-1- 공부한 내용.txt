@@ -1,0 +1,23 @@
+-크롬 브라우저 설정
+- 비주얼 스튜디오 코드 설치
+- 실습할 프로젝트 폴더 생성
+- VSCode 확장 프로그램 설치
+ activity바 영역
+ SideBar 영역  파일 폴더 생성
+보기에 터미널 하단에 패널이라는 영역이 나온다.
+에디터 영역에서 코딩을 한다.
+
+확장 프로그램 : korean
+                    Bracket Pair(괄호가 여러개 일때 색깔이 다 다르다)
+                    indent rain : 자동으로 탭으로 구분해주고 가독성 있게 색깔을 넣어준다.
+                   Auto Rename Tag : 앞에 태그를 바꾸어주면 뒤에 태그도 자동으로 바꾸어 준다.
+                   CSS Peek : ctrl+왼쪽 마우스 클릭 : 클래스 선택자를 찾아준다.
+                  HTML to CSS autocompletion : 스타일 시트 선택자명을 자동 완성 시켜준다.
+                  HTML CSS Support: css 자동 완성을 지원 한다.
+                  IntelliSense for CSS class name 확장 프로그램
+                  prettier- code formatter 확장 프로그램 :코드를 예쁘게 정렬 해주는 확장 프로그램 
+                      ctrl+, : format on save
+                      default format
+                      tab width 2
+                      tab size 2
+                       quote

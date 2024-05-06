@@ -1,0 +1,5 @@
+비주얼 코드에서 자바 스크립트 환경 설정
+설명 블로그
+https://onsil-thegreenhouse.tistory.com/entry/Visual-Studio-Code%EC%97%90%EC%84%9C-Javascript-%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95
+비주얼 코드 환경 설정
+https://nodejs.org/en/download/
