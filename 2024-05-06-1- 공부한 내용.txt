@@ -21,3 +21,11 @@
                       tab width 2
                       tab size 2
                        quote
+- 내용이 추가 되었다.
+
+Visual Studio Code for the Web
+
+Visual Studio Code
+https://code.visualstudio.com › docs › editor › vscode-...
+Visual Studio Code for the Web provides a free, zero-install Microsoft Visual Studio Code experience running entirely in your browser, allowing you to quickly ...
+‎Relationship to VS Code... · ‎GitHub repos · ‎Azure Repos · ‎More custom URLs
